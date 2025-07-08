@@ -5,6 +5,8 @@ body {
 	line-height: 1.6;
 	background: #fff;
 	background-size: 40px 40px;
+	background-color: #000;
+  	color: #fff; 
 }
 #outer {
 	margin: 0 auto;
@@ -145,8 +147,3 @@ h2 {
 	font-size: 20px;
 }
 }
-body {
-  background-color: #000;
-  color: #fff; /* 必要に応じて文字色も白に */
-}
-
