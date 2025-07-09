@@ -42,7 +42,7 @@ footer {
 button {
   padding: 10px 20px;
   font-size: 16px;
-  background-color: white;
+  background-color: #0000ff;
   color: black;
   border: none;
   border-radius: 5px;
@@ -55,6 +55,6 @@ button:hover {
 }
 
 button:active {
-  background-color: #333;
+  background-color: black;
   transform: scale(0.98);
 }
