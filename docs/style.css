@@ -59,3 +59,9 @@ button:active {
   background-color: black;
   transform: scale(0.98);
 }
+
+#image {
+  margin: auto;
+  padding-top: 40px;
+  width: 500px;
+}
