@@ -61,5 +61,7 @@ button:active {
 }
 .IMAGE { width: 75%; 
        max-width: 800px; /* 最大幅 */
-       min-width: 120px; /* 最小幅 */}
+       min-width: 120px; /* 最小幅 */
+       height: auto;
+       display: block;}
 .IMAGE img { width: 100%; }
