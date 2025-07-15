@@ -59,11 +59,11 @@ button:active {
   background-color: black;
   transform: scale(0.98);
 }
-.IMAGE { width: 90%;
+.IMAGE { width: 98%;
        min-width: 120px; /* 最小幅 */
        height: auto;
        display: block;}
 .IMAGE img { width: 100%; }
 
-.IMAGE {height: 100%;
+.footer {height: 100%;
        display: block;}
