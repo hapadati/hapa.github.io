@@ -36,7 +36,7 @@ footer {
   background: #222;
   color: white;
   text-align: center;
-  padding: 100px;
+  padding: 100%;
 }
 
 button {
@@ -64,6 +64,3 @@ button:active {
        height: auto;
        display: block;}
 .IMAGE img { width: 100%; }
-
-.footers {height: 100%;
-       display: block;}
