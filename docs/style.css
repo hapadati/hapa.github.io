@@ -65,3 +65,6 @@ button:active {
        height: auto;
        display: block;}
 .IMAGE img { width: 100%; }
+
+.IMAGE {height: 100%;
+       display: block;}
