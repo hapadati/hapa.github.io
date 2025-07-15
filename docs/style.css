@@ -59,8 +59,7 @@ button:active {
   background-color: black;
   transform: scale(0.98);
 }
-.IMAGE { width: 75%; 
-       max-width: 800px; /* 最大幅 */
+.IMAGE { width: 90%;
        min-width: 120px; /* 最小幅 */
        height: auto;
        display: block;}
